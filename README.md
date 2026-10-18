@@ -1,5 +1,5 @@
 <a href="https://om2412.github.io/">
-  <img src="https://raw.githubusercontent.com/OM2412/om2412.github.io/main/assets/profile-banner.svg" alt="Om Singh Jadon — From interface to infrastructure. Java, Spring Boot, React and SQL." width="100%" />
+  <img src="https://raw.githubusercontent.com/OM2412/om2412.github.io/main/assets/profile-banner.svg" alt="Om Singh Jadon — The Developer's Cut. Java, Spring Boot, React and SQL." width="100%" />
 </a>
 
 <p align="center">
