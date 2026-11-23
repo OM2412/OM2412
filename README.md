@@ -1,4 +1,7 @@
 <a href="https://om2412.github.io/">
+
+> **Latest published links:** [Portfolio](https://om2412.github.io/) · [Folio](https://folio-c4no.onrender.com/) · [ReturnTrail](https://returntrail-api.onrender.com/) · [OnceTold](https://oncetold.pages.dev/). These are repository-supported project URLs; third-party uptime has not been independently rechecked for all targets.
+
   <img src="https://raw.githubusercontent.com/OM2412/om2412.github.io/main/assets/profile-banner.svg" alt="Om Singh Jadon — The Developer's Cut. Java, Spring Boot, React and SQL." width="100%" />
 </a>
 
@@ -18,9 +21,9 @@ I'm a **Computer Science and Business Systems student at MITS Gwalior**, focused
 
 | Project | What it explores | Contribution & links |
 | :--- | :--- | :--- |
-| **ReturnTrail** | Source-linked return-pickup evidence, graph context and follow-up history | Full-stack team build with **Ajeet Gadekar**. [Demo](https://returntrail-api.onrender.com) · [Code](https://github.com/OM2412/ReturnTrail) · [Video](https://youtu.be/5lfysyQZOO0) |
-| **OnceTold** | Customer support with recall and resolution memory through Cognee | Solo build. [Application](https://github.com/OM2412/OnceTold) · [Memory service](https://github.com/OM2412/OnceTold-Memory) |
-| **Legal Contract Analyzer** | Agreement/SOW payment-term comparison with exact quotes and separate local AI suggestions | Academic project. [Code & local setup](https://github.com/OM2412/legal-contract-analyzer) |
+| **ReturnTrail** | Source-linked return-pickup evidence, graph context and follow-up history | Full-stack team build with **Ajeet Gadekar**. [Published demo](https://returntrail-api.onrender.com) · [Code](https://github.com/OM2412/ReturnTrail) · [Video](https://youtu.be/5lfysyQZOO0) |
+| **OnceTold** | Customer support with recall and resolution memory through Cognee | Solo build. [Published app](https://oncetold.pages.dev/) · [Synthetic tour](https://oncetold.pages.dev/demo.html) · [Code](https://github.com/OM2412/OnceTold) · [Memory service](https://github.com/OM2412/OnceTold-Memory) |
+| **Legal Contract Analyzer** | Agreement/SOW payment-term comparison with exact quotes and separate local AI suggestions | Academic project. [Live Folio](https://folio-c4no.onrender.com/) · [Code & local setup](https://github.com/OM2412/legal-contract-analyzer) |
 | **SpiderSense** | Competitor snapshots, structured changes and AI-assisted explanations | Shared frontend/backend work with **Yogesh Sanodiya**. [Project](https://spider-sense-beta.vercel.app/) · [Code](https://github.com/yogeshsanodiya59-web/SpiderSense) |
 
 These are prototypes. Each repository explains its setup and boundaries; collaborative projects retain their teammate credits.
